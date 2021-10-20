@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="question_spain">Is Madrid capital of Spain?</string>
+    <string name="question_france">Is Paris capital of France?</string>
+    <string name="question_germany">Is Cologne capital of Germany?</string>
+    <string name="question_uk">Is London capital of the UK?</string>
+    <string name="question_italy">Is Venice capital of Italy?</string>
+</resources>
